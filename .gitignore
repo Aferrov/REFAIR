@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos grandes / modelos preentrenados
+models/glove.6B.100d.txt
+*.bin
+*.pt
+*.pkl
+*.h5
+*.zip
+*.tar.gz
+
+# Archivos temporales
+__pycache__/
+*.pyc
